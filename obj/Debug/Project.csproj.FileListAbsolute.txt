@@ -1,0 +1,72 @@
+C:\Users\Bernard\Documents\SharpDevelop Projects\Panel\Project\bin\Debug\Project.exe
+C:\Users\Bernard\Documents\SharpDevelop Projects\Panel\Project\bin\Debug\Project.pdb
+C:\Users\Bernard\Documents\SharpDevelop Projects\Panel\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Bernard\Documents\SharpDevelop Projects\Panel\Project\obj\Debug\Project.Cust.resources
+C:\Users\Bernard\Documents\SharpDevelop Projects\Panel\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\Bernard\Documents\SharpDevelop Projects\Panel\Project\obj\Debug\Project.exe
+C:\Users\Bernard\Documents\SharpDevelop Projects\Panel\Project\obj\Debug\Project.pdb
+C:\Users\Bernard\Documents\SharpDevelop Projects\Panel\Project\obj\Debug\Project.Menu.resources
+C:\Users\Bernard\Documents\SharpDevelop Projects\Panel\Project\obj\Debug\Project.Stocks.resources
+C:\Users\Bernard\Documents\SharpDevelop Projects\SAD\Project\bin\Debug\Project.exe
+C:\Users\Bernard\Documents\SharpDevelop Projects\SAD\Project\bin\Debug\Project.pdb
+C:\Users\Bernard\Documents\SharpDevelop Projects\SAD\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Bernard\Documents\SharpDevelop Projects\SAD\Project\obj\Debug\Project.Cust.resources
+C:\Users\Bernard\Documents\SharpDevelop Projects\SAD\Project\obj\Debug\Project.Menu.resources
+C:\Users\Bernard\Documents\SharpDevelop Projects\SAD\Project\obj\Debug\Project.Stocks.resources
+C:\Users\Bernard\Documents\SharpDevelop Projects\SAD\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\Bernard\Documents\SharpDevelop Projects\SAD\Project\obj\Debug\Project.exe
+C:\Users\Bernard\Documents\SharpDevelop Projects\SAD\Project\obj\Debug\Project.pdb
+C:\Users\Bernard\Documents\SharpDevelop Projects\SAD\Project\obj\Debug\Project.MainForm.resources
+C:\Users\Bernard\Documents\SharpDevelop Projects\SAD\Project\obj\Debug\Project.Sales.resources
+C:\Users\Bernard\Documents\SharpDevelop Projects\SAD\Project\obj\Debug\Project.Status.resources
+C:\Users\Bernard\Documents\SharpDevelop Projects\SAD\Project\obj\Debug\Project.graph.resources
+C:\Users\Bernard\Documents\SharpDevelop Projects\SAD\Project\obj\Debug\Project.Log.resources
+C:\Users\justine\Documents\SharpDevelop Projects\SAD\Project\bin\Debug\Project.exe
+C:\Users\justine\Documents\SharpDevelop Projects\SAD\Project\bin\Debug\Project.pdb
+C:\Users\justine\Documents\SharpDevelop Projects\SAD\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\justine\Documents\SharpDevelop Projects\SAD\Project\obj\Debug\Project.Cust.resources
+C:\Users\justine\Documents\SharpDevelop Projects\SAD\Project\obj\Debug\Project.graph.resources
+C:\Users\justine\Documents\SharpDevelop Projects\SAD\Project\obj\Debug\Project.Log.resources
+C:\Users\justine\Documents\SharpDevelop Projects\SAD\Project\obj\Debug\Project.MainForm.resources
+C:\Users\justine\Documents\SharpDevelop Projects\SAD\Project\obj\Debug\Project.Menu.resources
+C:\Users\justine\Documents\SharpDevelop Projects\SAD\Project\obj\Debug\Project.Sales.resources
+C:\Users\justine\Documents\SharpDevelop Projects\SAD\Project\obj\Debug\Project.Status.resources
+C:\Users\justine\Documents\SharpDevelop Projects\SAD\Project\obj\Debug\Project.Stocks.resources
+C:\Users\justine\Documents\SharpDevelop Projects\SAD\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\justine\Documents\SharpDevelop Projects\SAD\Project\obj\Debug\Project.exe
+C:\Users\justine\Documents\SharpDevelop Projects\SAD\Project\obj\Debug\Project.pdb
+C:\Users\justine\Desktop\School\Dbms\Project\obj\Debug\Project.exe
+C:\Users\justine\Desktop\School\Dbms\Project\obj\Debug\Project.pdb
+C:\Users\justine\Desktop\School\Dbms\Project\bin\Debug\Project.exe
+C:\Users\justine\Desktop\School\Dbms\Project\bin\Debug\Project.pdb
+C:\Users\justine\Desktop\School\Dbms\Project\bin\Debug\MySql.Data.dll
+C:\Users\justine\Desktop\School\Dbms\Project\bin\Debug\MySql.Data.xml
+C:\Users\justine\Desktop\School\Dbms\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\justine\Desktop\School\Dbms\Project\obj\Debug\Project.Cust.resources
+C:\Users\justine\Desktop\School\Dbms\Project\obj\Debug\Project.graph.resources
+C:\Users\justine\Desktop\School\Dbms\Project\obj\Debug\Project.Log.resources
+C:\Users\justine\Desktop\School\Dbms\Project\obj\Debug\Project.MainForm.resources
+C:\Users\justine\Desktop\School\Dbms\Project\obj\Debug\Project.Menu.resources
+C:\Users\justine\Desktop\School\Dbms\Project\obj\Debug\Project.Sales.resources
+C:\Users\justine\Desktop\School\Dbms\Project\obj\Debug\Project.SalesGraph.resources
+C:\Users\justine\Desktop\School\Dbms\Project\obj\Debug\Project.Status.resources
+C:\Users\justine\Desktop\School\Dbms\Project\obj\Debug\Project.Stocks.resources
+C:\Users\justine\Desktop\School\Dbms\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\justine\Documents\Visual Studio 2015\Projects\Project\obj\Debug\Project.exe
+C:\Users\justine\Documents\Visual Studio 2015\Projects\Project\obj\Debug\Project.pdb
+C:\Users\justine\Documents\Visual Studio 2015\Projects\Project\bin\Debug\Project.exe
+C:\Users\justine\Documents\Visual Studio 2015\Projects\Project\bin\Debug\Project.pdb
+C:\Users\justine\Documents\Visual Studio 2015\Projects\Project\bin\Debug\MySql.Data.dll
+C:\Users\justine\Documents\Visual Studio 2015\Projects\Project\bin\Debug\MySql.Data.xml
+C:\Users\justine\Documents\Visual Studio 2015\Projects\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\justine\Documents\Visual Studio 2015\Projects\Project\obj\Debug\Project.Cust.resources
+C:\Users\justine\Documents\Visual Studio 2015\Projects\Project\obj\Debug\Project.graph.resources
+C:\Users\justine\Documents\Visual Studio 2015\Projects\Project\obj\Debug\Project.Log.resources
+C:\Users\justine\Documents\Visual Studio 2015\Projects\Project\obj\Debug\Project.MainForm.resources
+C:\Users\justine\Documents\Visual Studio 2015\Projects\Project\obj\Debug\Project.Menu.resources
+C:\Users\justine\Documents\Visual Studio 2015\Projects\Project\obj\Debug\Project.Sales.resources
+C:\Users\justine\Documents\Visual Studio 2015\Projects\Project\obj\Debug\Project.SalesGraph.resources
+C:\Users\justine\Documents\Visual Studio 2015\Projects\Project\obj\Debug\Project.Status.resources
+C:\Users\justine\Documents\Visual Studio 2015\Projects\Project\obj\Debug\Project.Stocks.resources
+C:\Users\justine\Documents\Visual Studio 2015\Projects\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\justine\Documents\Visual Studio 2015\Projects\Project\obj\Debug\Project.Properties.Resources.resources
